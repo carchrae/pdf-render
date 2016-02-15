@@ -1,0 +1,17 @@
+{
+  "name": "pdf-render",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "phantom": "^1.0.0",
+    "phantomjs": "^2.1.3",
+    "tracer": "^0.8.3"
+  }
+}
